@@ -1,0 +1,9 @@
+.full-page {
+  min-height: 100vh;
+}
+
+.center-hv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
